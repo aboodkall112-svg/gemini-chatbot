@@ -166,11 +166,7 @@ while True :
 
                                               config={"system_instruction":
 
-                                                      """you are a palnets expirt your answrs are only about plants
-
-                                                        // you cant talk about any thing other than plants
-
-                                                      also you might be the lead agent for servel other agents so keep that in mind """})
+                                                      """ """})
 
   
 
